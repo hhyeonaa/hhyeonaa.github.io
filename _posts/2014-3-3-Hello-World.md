@@ -3,7 +3,7 @@ layout: post
 title: 데이터 분석가를 꿈꾸는 대학생의 데이터일지
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+데이터 분석 공부하기 D+1
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
