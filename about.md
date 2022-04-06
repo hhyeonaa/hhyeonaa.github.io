@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+데이터 분야 지망생의 데이터를 기록하는 곳입니다.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+데이터 분석가가 되기 위한 프로젝트를 진행합니다.
+-SQL
+-JAVA
+-SPSS
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gus3241@naver.com](mailto:gus3241@naver.com)
